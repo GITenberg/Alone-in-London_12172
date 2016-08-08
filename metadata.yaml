@@ -1,0 +1,37 @@
+_repo: Alone-in-London_12172
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
+description: Alone in London is presented here in a high quality paperback edition.
+  This popular classic work by Hesba Stretton is in the English language, and may
+  not include graphics or images from the original edition. If you enjoy the works
+  of Hesba Stretton then we highly recommend this publication for your book collection.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grandfathers -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children -- Hospitals -- Juvenile fiction'
+- !lcsh 'Reconciliation -- Juvenile fiction'
+- !lcsh 'Children -- Death -- Juvenile fiction'
+- !lcsh 'Poor -- Juvenile fiction'
+- !lcsh 'Homeless children -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Alone in London
+url: http://www.gutenberg.org/ebooks/12172
