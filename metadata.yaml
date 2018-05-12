@@ -1,5 +1,8 @@
 _repo: Alone-in-London_12172
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stretton, Hesba
@@ -13,6 +16,8 @@ description: Alone in London is presented here in a high quality paperback editi
   This popular classic work by Hesba Stretton is in the English language, and may
   not include graphics or images from the original edition. If you enjoy the works
   of Hesba Stretton then we highly recommend this publication for your book collection.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12172#Alone-in-London
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
